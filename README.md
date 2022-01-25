@@ -1,7 +1,7 @@
 
 
 # Kodluyoruz - Ödev - 3 Yemek Tarifim
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum ödev-3 Yemek tarifi Reposu. İçerisinde bir adet README dosyası, bir adet index.html, bir adet header.html bir adet contact.html ve img klasörü barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum ödev-3 Yemek tarifi Reposu. İçerisinde bir adet README dosyası, bir adet index.html, bir adet EristeSalatasi.html bir adet contact.html ve img klasörü barındırıyor.
 
 ## Installation
 Öncelikle projeyi clonelayın.
