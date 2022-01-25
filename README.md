@@ -1,4 +1,6 @@
-
+![index.html görünüsü](img/goruntu-index-html.png)
+![EristeSalatasi.html görünüsü](img/goruntu-EristeSalatasi-html.png)
+![contact.html görünüsü](img/goruntu-contact-html.png)
 
 # Kodluyoruz - Ödev - 3 Yemek Tarifim
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum ödev-3 Yemek tarifi Reposu. İçerisinde bir adet README dosyası, bir adet index.html, bir adet header.html ve img klasörü barındırıyor.
